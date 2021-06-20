@@ -1,0 +1,19 @@
+{
+  "name": "unittestingactivity",
+  "version": "1.0.0",
+  "description": "mit homework of testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Oscartic/unitTestingActivity.git"
+  },
+  "author": "ORB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscartic/unitTestingActivity/issues"
+  },
+  "homepage": "https://github.com/Oscartic/unitTestingActivity#readme"
+}
